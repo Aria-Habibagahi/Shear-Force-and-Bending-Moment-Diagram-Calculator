@@ -6,7 +6,7 @@ A Python-based tool that models a statically determinate beam with one smooth-pi
 #  How the Code Runs-Setup and Instructions
 1. User Input
 
--Prompts for beam span and support locations: pin at A, roller at B
+- Prompts for beam span and support locations: pin at A, roller at B
 -Asks for load configurations: point loads, point moments, UDLs, LDLs (magnitude & location)
 -Stores inputs in arrays: pointLoads, pointMoments, distributedLoads, linearLoads
 
