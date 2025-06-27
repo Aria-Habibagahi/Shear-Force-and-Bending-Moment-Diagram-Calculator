@@ -1,7 +1,7 @@
 #  Shear-Force-and-Bending-Moment-Diagram-Calculator
-Topics Covered: Statics and Python
-Created: Summer 2025
-A detailed explanation of the project, including the methodology, implementation, and sample results is located in the "File report". (For privacy and security, I have not used my full name on GitHub.)
+- Topics Covered: Statics and Python
+- Created: Summer 2025
+- A detailed explanation of the project, including the methodology, implementation, and sample results is located in the "File report". (For privacy and security, I have not used my full name on GitHub.)
 
 #  Overview
 A Python-based tool that models a statically determinate beam with one smooth-pin (hinge) support and one roller/rocker support. Users input beam length and load configurations , and the program computes support reactions, internal shear forces, and bending moments—then plots clear shear-force and bending-moment diagrams.
